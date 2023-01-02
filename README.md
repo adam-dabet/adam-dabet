@@ -1,6 +1,6 @@
 ## Adam Eldabet
 ##### I am a results focused and self-driven computer engineering student looking for an internship opportunity. I am ready to learn, and eager to create value for my prospective employer through my dedicated and diligent efforts.
-![I am a results focused and self-driven computer engineering student looking for an internship opportunity. I am ready to learn, and eager to create value for my prospective employer through my dedicated and diligent efforts.](https://64.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif)
+![I am a results focused and self-driven computer engineering student looking for an internship opportunity. I am ready to learn, and eager to create value for my prospective employer through my dedicated and diligent efforts.][!MasterHead](https://64.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif)]
 
 
 ## Skills
