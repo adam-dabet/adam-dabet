@@ -1,11 +1,11 @@
 
  
 <h1 align="center">Hi 👋, I'm Adam ELDabet</h1>
-<h3 align="center">I am a results focused and self-driven computer engineering student looking for an internship opportunity. I am ready to learn, and eager to create value for my prospective employer through my dedicated and diligent efforts.</h3>
+<h3 align="center">I am a results focused and self-driven computer engineering student. I am ready to learn, and eager to create value for my prospective employer through my dedicated and diligent efforts.</h3>
 
 <img align="right" alt="Coding" width= "300" height= "470" src="https://64.media.tumblr.com/b280a388fc5c8b88a78912b47e482af6/tumblr_n7sb7eI5zg1sfhzt8o1_500.gif">
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Web Hacking Fundamentals**
 
 - 📫 How to reach me **adamdabet@gmail.com**
 
